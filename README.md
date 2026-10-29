@@ -14,7 +14,7 @@ The recommended timeline for the whole module is 1 week.
 #### Prerequisites
 
 Use your solution from **Rest Basics** module as base point.
-Use `io.springfox:springfox-boot-starter` starter and annotations from `io.swagger.annotations` package.
+Use `org.springdoc:springdoc-openapi-starter-webmvc-ui` starter (Swagger UI is available at `/swagger-ui.html`) and annotations from `io.swagger.v3.oas.annotations` package.
 
 #### Final Check
 
